@@ -1,0 +1,13 @@
+step 1 : Create a snake body
+
+step 2 : Move the snake
+
+step 3 : Control the snake
+
+step 4 : Detect collision with food
+
+step 5 : Create a scoreboard
+
+step 6 : Detect collision with wall
+
+step 7 : Detect collision with tail
